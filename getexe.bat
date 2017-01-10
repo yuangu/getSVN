@@ -1,0 +1,1 @@
+Pyinstaller -F --icon=res\icon.ico main.py
